@@ -1,6 +1,6 @@
 Developed for ARM board FRDM-KL25Z
 
-Title: TPM-PWM timers, PIT timers and threads
+Title: TPM-PWM, PIT timers and threads
 
 Features:
 - Press unique button to switch between different tones
